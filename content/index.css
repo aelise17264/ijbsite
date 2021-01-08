@@ -1,0 +1,36 @@
+body{
+    background-color: #e1d89f ;
+    color: #2c061f;
+    padding: 1%;
+}
+
+hr{
+    color: #374045;
+    border: none;
+    border-top: dotted #374045;
+    overflow: visible;
+    position: relative;
+    width: 50%;
+    border-width: 5px;
+    
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+}
+.myname{
+    padding-top: 5%;
+    padding-left: 1em;
+    flex-direction: column;
+}
+.profile_pic{
+    align-items: left;
+    border-radius: 50%;
+    height: 20%;
+    width: 20%;
+}
+
+.thisbody{
+    align-items: center;
+    padding-left: 10%;
+}
