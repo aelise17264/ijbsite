@@ -131,6 +131,15 @@ rect{
   color:darkslategrey
 }
 
+.col-lg-4 h2{
+  padding-top: 5%;
+}
+
+.row.icons{
+  padding-bottom: 0;
+  padding-top: 5%;
+}
+
 /* Featurettes
 ------------------------- */
 
