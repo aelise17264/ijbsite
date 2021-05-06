@@ -56,6 +56,7 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+  margin-top: 4rem;
 }
 
 
@@ -126,12 +127,16 @@ rect{
   margin-left: .75rem;
 }
 
+.icon:hover{
+  color:darkslategrey
+}
 
 /* Featurettes
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin-top: 5rem; /* Space out the Bootstrap <hr> more */
+
 }
 
 /* Thin out the marketing headings */
@@ -141,6 +146,15 @@ rect{
   letter-spacing: -.05rem;
 }
 
+.col-md-7{
+  padding-top: 0;
+  margin-top: 0;
+}
+.superHighway{
+  height: 50vh;
+  padding-top: 5rem;
+  
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
