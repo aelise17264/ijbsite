@@ -165,6 +165,14 @@ rect{
   
 }
 
+/* Contact */ #text{
+  background-color: purple
+}
+.contactParagraph{
+  width: 70vw;
+}
+
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
