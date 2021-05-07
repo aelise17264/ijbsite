@@ -69,6 +69,15 @@ body {
   width: 75%;
 }
 
+.filmmaker{
+  height: 35vh;
+}
+
+.gif{
+  height: 35vh;
+  padding-right: 40%;
+}
+
 .center{
   text-align: center;
 }
